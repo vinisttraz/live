@@ -5,7 +5,7 @@ opcao: literal
 metro, quilometro, litro, metrocubico: real
 inicio
 
-
+ // comando de repetição
 repita
    escreval("1 - para converter metros em quilômetros.")
    escreval("2 - para converter litros em metros cúbicos.")
