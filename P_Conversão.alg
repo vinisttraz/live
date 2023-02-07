@@ -7,9 +7,9 @@ inicio
 
 
 repita
-   escreval("1 - para converter metros em quilômetros")
-   escreval("2 - para converter litros em metros cúbicos")
-   escreval("3 - para sair do programa")
+   escreval("1 - para converter metros em quilômetros.")
+   escreval("2 - para converter litros em metros cúbicos.")
+   escreval("3 - para sair do programa.")
    leia (opcao)
 
    se opcao = "1" entao
